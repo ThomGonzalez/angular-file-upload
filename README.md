@@ -15,6 +15,10 @@ You could find this module in bower like [_angular file upload_](http://bower.io
 2. [Uploads only images (with canvas preview)](http://nervgh.github.io/pages/angular-file-upload/examples/image-preview)
 3. [Without bootstrap example](http://nervgh.github.io/pages/angular-file-upload/examples/without-bootstrap)
 
+## CSRF in Django
+
+The CSRF middleware and template tag provides easy-to-use protection against Cross Site Request Forgeries. This type of attack occurs when a malicious Web site contains a link, a form button or some JavaScript that is intended to perform some action on your Web site, using the credentials of a logged-in user who visits the malicious site in their browser. A related type of attack, ‘login CSRF’, where an attacking site tricks a user’s browser into logging into a site with someone else’s credentials, is also covered. [Cross Site Request Forgery protection](https://docs.djangoproject.com/en/1.8/ref/csrf/#ajax)
+
 ## More Info
 
 1. [Introduction](https://github.com/nervgh/angular-file-upload/wiki/Introduction)
